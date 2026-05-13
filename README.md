@@ -143,15 +143,16 @@ const stack = {
 
 ---
 
-## 🎓 **What I'm Learning**
+## 🌱 **Currently Learning**
 
-- 🔐 Advanced authentication & authorization patterns
-- 🚀 System design & scalable architecture
-- 📦 Building & publishing npm packages
-- 🤖 AI/ML integration in web applications
-- 🌐 Microservices & containerization (Docker, Kubernetes)
-- 💾 Database optimization & query performance
-
+- 📊 Data Analytics using SQL, Power BI & Advanced Excel
+- 🐍 Python for Data Analysis & Automation
+- 🌐 Full-Stack Web Development with JavaScript
+- 🤖 AI-powered Chatbot & Knowledge Base Integration
+- 🗄️ Database Design, Query Optimization & ETL Basics
+- 📈 Dashboard Building & Data Visualization
+- 🔐 Authentication & Backend API Development
+- ☁️ Deployment, GitHub Workflow & Project Hosting
 ---
 
 ## 🤝 **Let's Connect!**
@@ -162,20 +163,10 @@ I'm always open to exciting opportunities, collaborations, and conversations abo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-shabbir-shah)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shabbirshah722@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://shabbirrr.vercel.app)
 
 </div>
 
 ---
-
-## 💼 **Open To**
-
-- 💰 **Full-time roles** in full-stack development
-- 🤝 **Freelance projects** & consulting
-- 🌐 **Open-source contributions**
-- 📚 **Mentoring & knowledge sharing**
-- 🔗 **Collaborations** on innovative projects
 
 > **Current Status**: Open to opportunities | Actively building | Learning continuously
 
@@ -185,7 +176,6 @@ I'm always open to exciting opportunities, collaborations, and conversations abo
 
 - 🔗 [WorkFlow Project](https://github.com/Shabbirrr/workflow) — My flagship project
 - 📊 [Data Analytics Projects](https://github.com/Shabbirrr?tab=repositories)
-- 📝 [Blog](https://hashnode.com/@Shabbirrr) — (Add your blog if you have one)
 - 💬 [Let's Chat](mailto:shabbirshah722@gmail.com) — Direct email
 
 ---
